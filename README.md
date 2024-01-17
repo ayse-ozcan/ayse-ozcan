@@ -1,5 +1,3 @@
-![](./banner.png)
-
 <h1>Hey there 👋</h1>
 <p>I completed an intensive Full Stack Java Developer training program, where I was able to enhance my skills in areas such as database management, software development processes, and object-oriented programming through project-based learning.
 
